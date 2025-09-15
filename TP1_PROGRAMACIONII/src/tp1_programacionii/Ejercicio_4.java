@@ -1,18 +1,12 @@
-
 package tp1_programacionii;
-
 /**
  *
  * @author rogui
  */
 // Importamos la clase Scanner
 import java.util.Scanner;
-
-
 public class Ejercicio_4 {
-    
-    public static void main(String[] args) {
-        
+public static void main(String[] args) {
         //Se crea un objeto scanner para lectura de datos
         Scanner input = new Scanner(System.in);
         String nombre;
